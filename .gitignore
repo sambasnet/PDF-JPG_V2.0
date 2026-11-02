@@ -1,0 +1,18 @@
+# Virtual environment
+myvenv/
+venv/
+.venv/
+
+# PyInstaller build artifacts & executable
+build/
+dist/
+main.exe
+
+# Input/Output passport data folders
+PDF/
+JPG/
+
+# Python / Linter caches
+__pycache__/
+*.py[cod]
+.ruff_cache/
